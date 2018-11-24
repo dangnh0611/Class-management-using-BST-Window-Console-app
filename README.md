@@ -5,7 +5,7 @@
 Class management using the Binary Search Tree(BST) data structure
 
 
-Small group project of Introduction to Programing course in university
+Small team-work project of Introduction to Programing course in university
 
 Thank my team for helping and teaching me,then we have completed this small project
   Team:
